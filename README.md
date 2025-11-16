@@ -16,7 +16,7 @@ Proyecto en Django que convierte números binarios a decimal, octal y hexadecima
 ```bash
 # clonar el repositorio
 git clone https://github.com/soyCristhiam-dev/calculadora-binaria.git
-cd conversiones
+cd calculadora-binaria
 
 # crear y activar virtualenv
 python -m venv venv
