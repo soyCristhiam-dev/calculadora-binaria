@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Calculadora Binaria (Django)
 
 
@@ -34,3 +35,7 @@ pip install -r requirements.txt
 # ejecutar migraciones y levantar servidor
 python manage.py migrate
 python manage.py runserver
+=======
+# calculadora-binaria
+Calculara binaria hecha con python django
+>>>>>>> 1053f3f732edd2a91ce4e103da24f450fb63e0e9
